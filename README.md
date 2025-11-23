@@ -1,4 +1,4 @@
-Sales Analytics Dashboard (Power BI + SQL) (*In Progress)
+Sales Analytics Dashboard (Power BI + SQL) (*In Progress).
 
 1.	 Project Overview
    
